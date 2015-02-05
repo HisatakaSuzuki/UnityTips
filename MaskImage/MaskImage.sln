@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{FEDA988B-8968-A389-0B59-47ED2518CB60}") = "DoubleCamera", "Assembly-CSharp.csproj", "{9D62C0A7-B3A8-CA83-02A5-DBE161596AA4}"
+Project("{5C42FB7D-0348-160A-336D-5B66E2C9A233}") = "MaskImage", "Assembly-CSharp.csproj", "{2C51F1F0-4E9F-8585-0090-E8BD74A349B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9D62C0A7-B3A8-CA83-02A5-DBE161596AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9D62C0A7-B3A8-CA83-02A5-DBE161596AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9D62C0A7-B3A8-CA83-02A5-DBE161596AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9D62C0A7-B3A8-CA83-02A5-DBE161596AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C51F1F0-4E9F-8585-0090-E8BD74A349B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C51F1F0-4E9F-8585-0090-E8BD74A349B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C51F1F0-4E9F-8585-0090-E8BD74A349B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C51F1F0-4E9F-8585-0090-E8BD74A349B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-							GlobalSection(MonoDevelopProperties) = preSolution
+		GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
