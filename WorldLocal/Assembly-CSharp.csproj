@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{2C51F1F0-4E9F-8585-0090-E8BD74A349B4}</ProjectGuid>
+	<ProjectGuid>{A0A0D733-F62F-CE73-D602-49DF2FF1ABA8}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,10 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Mask.cs" />
-     <Compile Include="Assets\TextureSize.cs" />
-     <None Include="Assets\MaskingShader.shader" />
-     <None Include="Assets\Transparentency.shader" />
+     <Compile Include="Assets\vectors.cs" />
+     <Compile Include="Assets\wlDirection.cs" />
+     <Compile Include="Assets\wlPoint.cs" />
+     <Compile Include="Assets\wlVector.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>

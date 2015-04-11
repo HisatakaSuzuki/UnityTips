@@ -14,6 +14,8 @@ public class Mask : MonoBehaviour {
 		mat.SetTexture ("_MainTex", main);
 		mat.SetTexture ("_BackTex", back);
 		mat.SetTexture ("_MaskTex", mask);
+
+		Debug.Log (main.width + "," + main.height);
 	}
 	
 	// Update is called once per frame

@@ -47,7 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Mask.cs" />
+     <Compile Include="Assets\TextureSize.cs" />
      <None Include="Assets\MaskingShader.shader" />
+     <None Include="Assets\Transparentency.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
